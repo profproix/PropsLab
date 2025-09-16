@@ -31,7 +31,7 @@
 
 ## 3. Import and Pass Data Through Props
 
-- Move your data file (e.g. `recipes.js`) into the `src` folder
+- Move your data file (e.g. `data.js`) into the `src` folder
 - Import the data into `App.jsx`
 - Render the `RecipeContainer` component inside `App`
 - Pass the recipe data to `RecipeContainer` using props
@@ -53,3 +53,4 @@
 
 1. Push your code to GitHub.
 2. Submit the link to your GitHub repository URL.
+
